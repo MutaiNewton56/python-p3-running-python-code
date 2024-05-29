@@ -28,7 +28,6 @@ is called.
 - **Scope**: the area in your program where a specific variable can be called.
 
 ***
-
 ## Introduction
 
 In this lesson, you'll get some practice running Python code, and see a few
